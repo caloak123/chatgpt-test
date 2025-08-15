@@ -1,1 +1,1 @@
-learn how to add chatgpt
+notes.me
